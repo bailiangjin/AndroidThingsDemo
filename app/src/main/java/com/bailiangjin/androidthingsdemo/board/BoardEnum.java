@@ -1,4 +1,4 @@
-package com.bailiangjin.androidthingsdemo;
+package com.bailiangjin.androidthingsdemo.board;
 
 /**
  * //TODO 添加类注释

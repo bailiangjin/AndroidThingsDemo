@@ -1,4 +1,4 @@
-package com.bailiangjin.androidthingsdemo;
+package com.bailiangjin.androidthingsdemo.activity;
 
 import android.app.Activity;
 import android.hardware.Sensor;
@@ -12,6 +12,8 @@ import android.util.Log;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bailiangjin.androidthingsdemo.board.BoardEnum;
+import com.bailiangjin.androidthingsdemo.R;
 import com.google.android.things.contrib.driver.bmx280.Bmx280SensorDriver;
 
 import java.io.IOException;

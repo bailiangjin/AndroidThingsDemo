@@ -1,4 +1,4 @@
-package com.bailiangjin.androidthingsdemo;
+package com.bailiangjin.androidthingsdemo.board;
 
 /**
  * 树莓派 串口

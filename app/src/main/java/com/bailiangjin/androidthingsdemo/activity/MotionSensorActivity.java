@@ -20,7 +20,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.bailiangjin.androidthingsdemo.Pi3BCMCodeByPin;
+import com.bailiangjin.androidthingsdemo.board.Pi3BCMCodeByPin;
 import com.google.android.things.pio.Gpio;
 import com.google.android.things.pio.GpioCallback;
 import com.google.android.things.pio.PeripheralManager;
