@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidThingsDemo</string>
+
+    <string name="temperature_text">Temperature ℃</string>
+    <string name="barometer_text">Barometer kPa</string>
+
+</resources>
